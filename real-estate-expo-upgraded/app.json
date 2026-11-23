@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Havenly Real Estate",
+    "slug": "havenly-real-estate",
+    "scheme": "havenly",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "plugins": ["expo-router"],
+    "experiments": { "typedRoutes": true },
+    "ios": { "supportsTablet": true },
+    "android": { "adaptiveIcon": { "backgroundColor": "#F4F7F5" } },
+    "web": { "bundler": "metro" }
+  }
+}
